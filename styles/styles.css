@@ -43,10 +43,17 @@ body{
 }
 
 .banner-image-container{
-    width: 60%;
+    width: 60px;
     height: 550px; 
     /* border: 2px solid blue; */
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.featured-image-container{
+    width: 80%;
+    height: 550;
+    margin:0 auto;
+    border: 2px solid red;
 }
